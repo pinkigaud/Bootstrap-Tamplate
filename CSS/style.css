@@ -1,4 +1,3 @@
-@import url(https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.1/css/fontawesome.min.css);
 
 
 a:hover {
@@ -116,7 +115,7 @@ a:hover {
 }
 .post-date:before{
     content:"\f073";
-    font-family: "Font Awesome 6 Free"
+    font-family: "Font Awesome 4 Free"
 ;
     padding-right: 5px;
 }
@@ -158,7 +157,7 @@ a.read-more:after{
 }
 .latest-news li:before{
     content: "\f061";
-    font-family: "Font Awesome 6 Free"
+    font-family: "Font-Awesome"
 ;
     padding-right: 5px;
 }
